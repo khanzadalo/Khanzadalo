@@ -39,6 +39,6 @@
 
 ###
 
-[![](https://visitcount.itsvg.in/api?id=khanzadalo&icon=1&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=khanzadalo&label=Profile%20Views&color=6&icon=9&pretty=false)](https://visitcount.itsvg.in)
 
 ###
